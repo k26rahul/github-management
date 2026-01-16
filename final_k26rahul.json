@@ -1,0 +1,689 @@
+{
+  "hackathons": [
+    {
+      "current_name": "AI-Agent-Hackathon",
+      "new_name": "ai-agent-hackathon",
+      "current_description": "Project submission for IIT Madras Paradox X Fetch.AI Hackathon, May 2024.",
+      "new_description": "Building AI agents using Agentverse and DeltaV — Fetch.ai x IIT Madras Hackathon, 2024",
+      "topics": ["ai-agents", "fetch-ai", "agentverse", "iit-madras", "hackathon"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Hackathons\\AI-Agent-Hackathon"
+    },
+    {
+      "current_name": "cricket-hackathon-2023",
+      "new_name": "cricket-hackathon-2023",
+      "current_description": "IPL 2023 Powerplay Score Prediction. IIT Madras, April 2023",
+      "new_description": "IPL 2023 powerplay score prediction — Cricket & Coding Challenge, IIT Madras, 2023",
+      "topics": [
+        "cricket",
+        "ipl",
+        "sports-analytics",
+        "machine-learning",
+        "data-science",
+        "regression",
+        "hackathon",
+        "iit-madras"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Hackathons\\IITM-Cricket-Hackathon-2023"
+    },
+    {
+      "current_name": "Space-Hackathon",
+      "new_name": "space-hackathon",
+      "current_description": "Prototype ISS cargo management system with placement and retrieval algorithms and 3D visualization. April 2025.",
+      "new_description": "ISS cargo management system with placement, retrieval, and 3D visualization — IIT Delhi Hackathon, 2025",
+      "topics": [
+        "space",
+        "hackathon",
+        "optimization",
+        "bin-packing",
+        "algorithms",
+        "visualization",
+        "threejs",
+        "3d",
+        "iit-delhi"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Hackathons\\Space-Hackathon"
+    },
+    {
+      "current_name": "Microsoft-AI-Odyssey",
+      "new_name": "microsoft-ai-odyssey",
+      "current_description": "Solutions for the challenges presented in Microsoft's AI Learning Challenge, February 2024.",
+      "new_description": "Solutions to Microsoft AI Learning Challenge problems — 2024",
+      "topics": ["ai", "challenges", "microsoft", "learning", "machine-learning"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Hackathons\\Microsoft-AI-Odyssey"
+    },
+    {
+      "current_name": "StudyMate",
+      "new_name": "studymate",
+      "current_description": "Integrating AI-powered agents for notes preparation, practice questions, and career guidance, facilitating effective studying and career planning.",
+      "new_description": "AI agent–based study assistant for notes, practice, and career guidance — Fetch.ai x IIT Madras Hackathon, 2024",
+      "topics": ["ai-agents", "edtech", "fetch-ai", "hackathon", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Hackathons\\StudyMate"
+    },
+    {
+      "current_name": "RythmFit-Hack-O-Pitch-2.0",
+      "new_name": "rythmfit-hack-o-pitch-2.0",
+      "current_description": "RythmFit: Prototype of an AI dance and fitness trainer for Hack-O-Pitch 2.0, May 2023.",
+      "new_description": "AI dance and fitness trainer prototype — Hack-O-Pitch 2.0, IIT Madras, 2023",
+      "topics": ["hackathon", "fitness", "tensorflow", "computer-vision", "astro", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Hackathons\\RythmFit-Hack-O-Pitch-2.0"
+    },
+    {
+      "current_name": "Violence-Detection",
+      "new_name": "violence-detection-hackathon",
+      "current_description": "Real-time video violence detection ML model, submitted for \"Dev Gathering '24\" Hackathon by MLSA MIET, Mar 2024.",
+      "new_description": "Real-time video violence detection using machine learning — MLSA MIET Dev Gathering, 2024",
+      "topics": [
+        "video-analysis",
+        "deep-learning",
+        "computer-vision",
+        "hackathon",
+        "machine-learning"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Hackathons\\Violence-Detection"
+    },
+    {
+      "current_name": "PixelMind-AI",
+      "new_name": "pixelmind-ai-hackathon",
+      "current_description": "Automated Image Color Enhancement: My solution to the PixelMind AI Hackathon, May 2023.",
+      "new_description": "Automated image color enhancement using machine learning — PixelMind AI Hackathon, 2023",
+      "topics": [
+        "computer-vision",
+        "image-processing",
+        "machine-learning",
+        "iit-madras",
+        "hackathon"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Hackathons\\PixelMind-AI"
+    }
+  ],
+  "web_development": [
+    {
+      "current_name": "ai-dungeon",
+      "new_name": "ai-rpg-chat",
+      "current_description": "No description",
+      "new_description": "AI-powered RPG chat interface using the Gemini API",
+      "topics": [
+        "gemini-api",
+        "ai",
+        "rpg",
+        "game-development",
+        "chatbot",
+        "web-development",
+        "javascript",
+        "frontend"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\ai-dungeon"
+    },
+    {
+      "current_name": "auth-practice",
+      "new_name": "auth-system-flask",
+      "current_description": "No description",
+      "new_description": "Session- and token-based authentication system using Flask & SQLite, with secure CRUD in a sample to-do app.",
+      "topics": [
+        "security",
+        "authentication",
+        "jwt",
+        "flask",
+        "sqlite",
+        "todo",
+        "backend",
+        "web-development"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\auth-practice"
+    },
+    {
+      "current_name": "BS-Grade-Calculator",
+      "new_name": "bs-grade-calculator",
+      "current_description": "A straightforward web tool for calculating IIT Madras BS final grades.",
+      "new_description": "Web application to calculate IIT Madras BS final course grades",
+      "topics": ["web-development", "iit-madras", "bs", "grades", "frontend"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\BS-Grade-Calculator"
+    },
+    {
+      "current_name": "event-emitter-lib",
+      "new_name": "event-emitter-lib",
+      "current_description": "A simple event emitter library built with TypeScript. Supports event handling, enabling/disabling emitters, and multiple module formats (CJS, ESM, UMD).",
+      "new_description": "Event emitter library built with TypeScript, supporting event handling, emitter enable/disable, and CJS/ESM/UMD builds.",
+      "topics": [
+        "typescript",
+        "tooling",
+        "npm",
+        "javascript",
+        "library",
+        "event",
+        "cjs",
+        "esm",
+        "umd"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\event-emitter-lib"
+    },
+    {
+      "current_name": "Expense-Tracker-React",
+      "new_name": "expense-tracker-react",
+      "current_description": "Simple React Expense Tracker built with Vite. Uses context, reducer, and local storage.",
+      "new_description": "Expense tracker built with React and Vite, using Context API, reducer pattern, and local storage.",
+      "topics": [
+        "react",
+        "vite",
+        "expense-tracker",
+        "state-management",
+        "reducer",
+        "frontend",
+        "web-development"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\Expense-Tracker-React"
+    },
+    {
+      "current_name": "HTML-Projects",
+      "new_name": "html-projects",
+      "current_description": "Simple HTML & CSS projects. Created on September 9, 2024.",
+      "new_description": "HTML and CSS practice projects, 2024",
+      "topics": ["html", "css", "web-development", "frontend"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\HTML-Projects"
+    },
+    {
+      "current_name": "inventory-management-app",
+      "new_name": "inventory-management-system",
+      "current_description": "No description",
+      "new_description": "Role-based (admin & manager) warehouse inventory management system built with Flask and Vue.js.",
+      "topics": [
+        "inventory-management",
+        "role-based",
+        "flask",
+        "vue",
+        "dashboard",
+        "frontend",
+        "javascript",
+        "web-development"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\inventory-management-app"
+    },
+    {
+      "current_name": "js-projects",
+      "new_name": "js-projects",
+      "current_description": "A collection of JavaScript projects. January 2025.",
+      "new_description": "Collection of JavaScript mini projects focused on core JavaScript concepts and DOM manipulation, 2025.",
+      "topics": ["mini-projects", "fundamentals", "javascript", "dom", "web-development"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\js-projects"
+    },
+    {
+      "current_name": "js-projects-2",
+      "new_name": "js-projects-2",
+      "current_description": "A collection of JavaScript projects. September 2025.",
+      "new_description": "Second collection of JavaScript mini projects focused on deeper JavaScript concepts, 2025.",
+      "topics": ["javascript", "mini-projects", "web-development", "fundamentals", "advanced"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\js-projects-2"
+    },
+    {
+      "current_name": "poetry-app",
+      "new_name": "poetrydb-flask-app",
+      "current_description": "No description",
+      "new_description": "Web application to fetch and display poems using the PoetryDB API, built with Flask.",
+      "topics": ["api", "poetrydb", "flask", "requests", "web-development"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\poetry-app"
+    },
+    {
+      "current_name": "poster-catalogue",
+      "new_name": "poster-catalogue-app",
+      "current_description": "No description",
+      "new_description": "Digital poster catalogue application built from PDF sources, supporting browsing, selection, and order generation, using PyMuPDF, Flask, and Vue.js.",
+      "topics": ["document-processing", "pymupdf", "flask", "vue", "pdf", "web-development"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\poster-catalogue"
+    },
+    {
+      "current_name": "PostgreSQL-FastAPI-Test",
+      "new_name": "fastapi-postgresql-basics",
+      "current_description": "Experimenting with FastAPI and PostgreSQL.",
+      "new_description": "Introduction to FastAPI with PostgreSQL",
+      "topics": ["fastapi", "api", "postgresql", "web-development", "backend"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\PostgreSQL-FastAPI-Test"
+    },
+    {
+      "current_name": "Learning-React",
+      "new_name": "react-egghead-course",
+      "current_description": "Code for 'The Beginner's Guide to React' course by Kent C. Dodds",
+      "new_description": "Practice code for The Beginner’s Guide to React by Kent C. Dodds, 2024",
+      "topics": ["react", "learning", "egghead", "course", "frontend"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\Learning-React"
+    },
+    {
+      "current_name": "React-Egghead",
+      "new_name": "react-egghead-course-2",
+      "current_description": "egghead.io/courses/the-beginner-s-guide-to-react",
+      "new_description": "Practice code for The Beginner’s Guide to React by Kent C. Dodds, 2024",
+      "topics": ["react", "learning", "egghead", "course", "frontend"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\React-Egghead"
+    },
+    {
+      "current_name": "t3-vanilla-js-2025",
+      "new_name": "tic-tac-toe-vanilla-js-2025",
+      "current_description": "No description",
+      "new_description": "Tic Tac Toe game built with vanilla JavaScript, 2025",
+      "topics": ["game-development", "javascript", "vanilla-js", "frontend"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\t3-vanilla-js-2025"
+    },
+    {
+      "current_name": "Tic-Tac-Toe-React",
+      "new_name": "tic-tac-toe-react",
+      "current_description": "Work in progress game written in React.js, implementing minimax algorithm for AI and websockets for real-time play. Ported from vanilla JS for practice.",
+      "new_description": "React implementation of Tic Tac Toe, 2024",
+      "topics": ["game-development", "react", "frontend"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\Tic-Tac-Toe-React"
+    },
+    {
+      "current_name": "Tic-Tac-Toe-Vanilla-JS",
+      "new_name": "tic-tac-toe-vanilla-js",
+      "current_description": "Unfinished game written in vanilla JavaScript, implementing minimax algorithm for AI and websockets for real-time play.",
+      "new_description": "Initial vanilla JavaScript implementation of Tic Tac Toe, 2024",
+      "topics": ["game-development", "javascript", "vanilla-js", "frontend"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\Tic-Tac-Toe-Vanilla-JS"
+    },
+    {
+      "current_name": "vectors",
+      "new_name": "plotly-vector-visualizer",
+      "current_description": "No description",
+      "new_description": "Interactive vector visualization tool built with Plotly.js for demonstrating vector addition in a web interface.",
+      "topics": ["data-visualization", "plotly", "math", "web-development", "javascript"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\vectors"
+    },
+    {
+      "current_name": "vishnu-story",
+      "new_name": "remotion-story-video",
+      "current_description": "No description",
+      "new_description": "Programmatic story video generation using Remotion, combining AI-generated images, subtitles, and audio.",
+      "topics": [
+        "video-generation",
+        "remotion",
+        "ai",
+        "content",
+        "automation",
+        "javascript",
+        "video"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\vishnu-story"
+    },
+    {
+      "current_name": "Weather-App-React",
+      "new_name": "weather-app-react",
+      "current_description": "Simple React Weather App built with Vite. Uses state, caching, and API integration.",
+      "new_description": "React-based weather application built with Vite, implementing state management, API integration, and caching.",
+      "topics": [
+        "react",
+        "weather",
+        "api",
+        "web-development",
+        "frontend",
+        "weather-app",
+        "caching"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Web-Development\\Weather-App-React"
+    }
+  ],
+  "machine_learning": [
+    {
+      "current_name": "Boston-Housing-Price-Prediction",
+      "new_name": "boston-housing-price-prediction",
+      "current_description": "Boston housing price predictions with machine learning.",
+      "new_description": "Boston housing price prediction using machine learning",
+      "topics": [
+        "machine-learning",
+        "regression",
+        "housing-prices",
+        "boston-housing",
+        "supervised-learning",
+        "scikit-learn"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Machine-Learning\\Boston-Housing-Price-Prediction"
+    },
+    {
+      "current_name": "Deep-Learning-March-2024",
+      "new_name": "deep-learning-march-2024",
+      "current_description": "Backpropagation, McCulloch-Pitts neuron, Perceptron, Multi-layer Perceptron, Feedforward networks.",
+      "new_description": "Introduction to backpropagation, McCulloch–Pitts neuron, perceptron, multilayer perceptron, and feedforward neural networks.",
+      "topics": ["deep-learning", "neural-networks", "perceptron", "neuron", "backpropagation"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Machine-Learning\\Deep-Learning-March-2024"
+    },
+    {
+      "current_name": "Machine-Learning-April-2023",
+      "new_name": "machine-learning-april-2023",
+      "current_description": "Exploring Machine Learning in April 2023.",
+      "new_description": "Projects from freeCodeCamp’s Machine Learning for Everybody by Kylie Ying and Boston housing price prediction by CodeWithHarry.",
+      "topics": ["machine-learning", "freecodecamp", "codewithharry"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Machine-Learning\\Machine-Learning-April-2023"
+    },
+    {
+      "current_name": "Machine-Learning-Kylie-Ying",
+      "new_name": "machine-learning-kylie-ying",
+      "current_description": "Practice code and projects from freeCodeCamp's Machine Learning for Everybody by Kylie Ying.",
+      "new_description": "Practice code and projects from freeCodeCamp’s Machine Learning for Everybody by Kylie Ying.",
+      "topics": ["machine-learning", "freecodecamp", "codewithharry"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Machine-Learning\\Machine-Learning-Kylie-Ying"
+    },
+    {
+      "current_name": "ml-april-25",
+      "new_name": "machine-learning-april-2025",
+      "current_description": "No description",
+      "new_description": "Projects from freeCodeCamp’s Machine Learning for Everybody by Kylie Ying and Boston housing price prediction by CodeWithHarry.",
+      "topics": ["machine-learning", "freecodecamp", "codewithharry"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Machine-Learning\\ml-april-25"
+    },
+    {
+      "current_name": "ML-Projects-March-2024",
+      "new_name": "machine-learning-march-2024",
+      "current_description": "ML Projects - Mar '24: Imbalanced classification, TensorFlow regression, Anomaly detection.",
+      "new_description": "Introduction to imbalanced classification, TensorFlow regression, and anomaly detection.",
+      "topics": [
+        "anomaly-detection",
+        "tensorflow",
+        "regression",
+        "imbalanced",
+        "classification",
+        "machine-learning"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Machine-Learning\\ML-Projects-March-2024"
+    },
+    {
+      "current_name": "ML-Projects-Siddhardhan",
+      "new_name": "ml-projects-siddhardhan",
+      "current_description": "Projects created by following Siddhardhan's machine learning YouTube playlist.",
+      "new_description": "Projects created by following Siddhardhan’s Machine Learning YouTube playlist.",
+      "topics": ["machine-learning", "tutorials", "supervised-learning", "projects"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Machine-Learning\\ML-Projects-Siddhardhan"
+    },
+    {
+      "current_name": "IPL2023-Powerplay-Score-Prediction",
+      "new_name": "ipl2023-powerplay-score-prediction",
+      "current_description": "Revisiting IITM Cricket Hackathon 2023 project: Predict IPL2023 powerplay score with official dataset.",
+      "new_description": "Revisiting IITM Cricket Hackathon 2023 project — IPL 2023 powerplay score prediction using the official dataset.",
+      "topics": ["cricket", "regression", "sports-analytics", "ipl", "machine-learning"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Machine-Learning\\IPL2023-Powerplay-Score-Prediction"
+    }
+  ],
+  "dsa": [
+    {
+      "current_name": "Codeforces-December-Sanika",
+      "new_name": "codeforces-december-2023",
+      "current_description": "Solving Codeforces beginners problems with Sanika.",
+      "new_description": "Codeforces beginner problem solutions with notes",
+      "topics": ["codeforces", "dsa", "competitive-programming"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\DSA\\Codeforces-December-Sanika"
+    },
+    {
+      "current_name": "DSA-CP",
+      "new_name": "dsa-cp",
+      "current_description": "Competitive Programming and DSA Problem-Solving Code.",
+      "new_description": "Competitive programming and DSA problem-solving code",
+      "topics": ["codeforces", "dsa", "competitive-programming"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\DSA\\DSA-CP"
+    },
+    {
+      "current_name": "DSA-Java-March-2024",
+      "new_name": "dsa-java-march-2024",
+      "current_description": "Practicing DSA problems in Java.",
+      "new_description": "Data structures and algorithms practice in Java",
+      "topics": ["java", "dsa", "algorithms", "data-structures"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\DSA\\DSA-Java-March-2024"
+    },
+    {
+      "current_name": "Java-Practice",
+      "new_name": "dsa-java-september-2024",
+      "new_description": "Data structures and algorithms practice in Java",
+      "topics": ["java", "dsa", "algorithms", "data-structures"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\DSA\\Java-Practice"
+    },
+    {
+      "current_name": "Mosh-Ultimate-DSA-Java",
+      "new_name": "mosh-ultimate-dsa-java",
+      "current_description": "Practicing data structures in Java based on Mosh Hamedani's Ultimate Data Structures & Algorithms course.",
+      "new_description": "Java data structures practice based on Mosh Hamedani’s Ultimate Data Structures & Algorithms course.",
+      "topics": ["java", "dsa", "algorithms", "data-structures"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\DSA\\Mosh-Ultimate-DSA-Java"
+    }
+  ],
+  "iitm": [
+    {
+      "current_name": "App-Dev-1",
+      "new_name": "mad1-coursework",
+      "new_description": "Coursework for Modern Application Development 1 — IIT Madras, T3 2024",
+      "topics": [
+        "mad1",
+        "web-development",
+        "python",
+        "flask",
+        "bootstrap",
+        "sqlalchemy",
+        "iit-madras",
+        "coursework"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\App-Dev-1"
+    },
+    {
+      "current_name": "appdev1-nextra",
+      "new_name": "mad1-course-website",
+      "new_description": "Website for week-wise lessons and resources for Modern Application Development 1, built with Next.js and Nextra.",
+      "topics": [
+        "mad1",
+        "next-js",
+        "nextra",
+        "web-development",
+        "documentation",
+        "tutorials",
+        "resources",
+        "iit-madras"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\appdev1-nextra"
+    },
+    {
+      "current_name": "js-practice",
+      "new_name": "mad2-coursework",
+      "new_description": "Coursework for Modern Application Development 2 — IIT Madras, T1 2025",
+      "topics": [
+        "mad2",
+        "vue-js",
+        "javascript",
+        "api",
+        "sqlalchemy",
+        "dbms",
+        "database",
+        "web-development",
+        "iit-madras"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\js-practice"
+    },
+    {
+      "current_name": "Machine-Learning-IITM",
+      "new_name": "machine-learning-techniques",
+      "new_description": "Coursework for Machine Learning Techniques (MLT) — IIT Madras, T2 2025",
+      "topics": ["machine-learning", "mlt", "iit-madras", "algorithms", "supervised-learning"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\Machine-Learning-IITM"
+    },
+    {
+      "current_name": "DBMS-Notes-December-2023",
+      "new_name": "dbms-t3-2023",
+      "new_description": "Coursework for DBMS — IIT Madras, T3 2023",
+      "topics": ["dbms", "sql", "database-management", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\DBMS-Notes-December-2023"
+    },
+    {
+      "current_name": "DBMS-T1-2024",
+      "new_name": "dbms-t1-2024",
+      "new_description": "Coursework for DBMS — IIT Madras, T1 2024",
+      "topics": ["dbms", "sql", "database-management", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\IITM-DBMS-T1-2024"
+    },
+    {
+      "current_name": "DBMS-T2-2024",
+      "new_name": "dbms-t2-2024",
+      "new_description": "Coursework for DBMS — IIT Madras, T2 2024",
+      "topics": ["dbms", "sql", "database-management", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\DBMS-T2-2024"
+    },
+    {
+      "current_name": "household-services-rahul",
+      "new_name": "mad1-project",
+      "new_description": "Household services web application built with Flask, Bootstrap, and SQLAlchemy.",
+      "topics": ["mad1", "flask", "sqlalchemy", "bootstrap", "web-development", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\household-services-rahul"
+    },
+    {
+      "current_name": "household-services-skeleton",
+      "new_name": "mad1-project-skeleton",
+      "new_description": "Skeleton code for household services web application",
+      "topics": [
+        "mad1",
+        "flask",
+        "skeleton",
+        "sqlalchemy",
+        "bootstrap",
+        "web-development",
+        "iit-madras"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\household-services-skeleton"
+    },
+    {
+      "current_name": "household-services-vidhatri",
+      "new_name": "mad1-project-prototype",
+      "new_description": "Prototype of the household services web application",
+      "topics": [
+        "mad1",
+        "flask",
+        "prototype",
+        "sqlalchemy",
+        "bootstrap",
+        "web-development",
+        "iit-madras"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\household-services-vidhatri"
+    },
+    {
+      "current_name": "mad1-skeleton",
+      "new_name": "flask-sqlalchemy-template",
+      "new_description": "Starter template for building web applications using Flask and SQLAlchemy.",
+      "topics": ["flask", "sqlalchemy", "template", "boilerplate", "web-development"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\mad1-skeleton"
+    },
+    {
+      "current_name": "mad2-project-rahul",
+      "new_name": "mad2-project",
+      "new_description": "Quiz application built with Flask, Vue.js, and REST APIs.",
+      "topics": [
+        "mad2",
+        "flask",
+        "vue-js",
+        "rest-api",
+        "quiz-app",
+        "web-development",
+        "iit-madras"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\mad2-project-rahul"
+    },
+    {
+      "current_name": "mad2-project-vidu",
+      "new_name": "mad2-project-skeleton",
+      "new_description": "Skeleton code for household services application",
+      "topics": [
+        "mad2",
+        "flask",
+        "vue-js",
+        "rest-api",
+        "skeleton",
+        "web-development",
+        "iit-madras"
+      ],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\mad2-project-vidu"
+    },
+    {
+      "current_name": "Java-T1-2024",
+      "new_name": "java-t1-2024",
+      "new_description": "Coursework for Java Programming — IIT Madras, T1 2024",
+      "topics": ["java", "object-oriented-programming", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\IITM-Java-T1-2024"
+    },
+    {
+      "current_name": "java-t1-2025",
+      "new_name": "java-t1-2025",
+      "new_description": "Coursework for Java Programming — IIT Madras, T1 2025",
+      "topics": ["java", "object-oriented-programming", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\java-t1-2025"
+    },
+    {
+      "current_name": "Java-T2-2025",
+      "new_name": "java-t2-2025",
+      "new_description": "Coursework for Java Programming — IIT Madras, T2 2025",
+      "topics": ["java", "object-oriented-programming", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\Java-T2-2025"
+    },
+    {
+      "current_name": "PDSA-T1-2024",
+      "new_name": "pdsa-t1-2024",
+      "new_description": "Coursework for Programming, Data Structures and Algorithms using Python (PDSA) — IIT Madras, T1 2024",
+      "topics": ["pdsa", "python", "dsa", "data-structures", "algorithms", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\IITM-PDSA-T1-2024"
+    },
+    {
+      "current_name": "PDSA-T2-2024",
+      "new_name": "pdsa-t2-2024",
+      "new_description": "Coursework for Programming, Data Structures and Algorithms using Python (PDSA) — IIT Madras, T2 2024",
+      "topics": ["pdsa", "python", "dsa", "data-structures", "algorithms", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\PDSA-T2-2024"
+    },
+    {
+      "current_name": "Python-T2-2023-Rahul",
+      "new_name": "python-t2-2023",
+      "new_description": "Coursework for Python Programming — IIT Madras, T2 2023",
+      "topics": ["python", "programming", "problem-solving", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\Python-T2-2023-Rahul"
+    },
+    {
+      "current_name": "Python-T1-2024-Vidhatri",
+      "new_name": "python-t1-2024",
+      "new_description": "Coursework for Python Programming — IIT Madras, T1 2024",
+      "topics": ["python", "programming", "problem-solving", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\Python-T1-2024-Vidhatri"
+    },
+    {
+      "current_name": "OPPE1-November-2023",
+      "new_name": "python-oppe1-t3-2023",
+      "new_description": "Preparation code and notes for Python OPPE 1 — IIT Madras, T3 2023",
+      "topics": ["python", "oppe", "exam", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\OPPE1-November-2023"
+    },
+    {
+      "current_name": "OPPE2-December-2023",
+      "new_name": "python-oppe2-t3-2023",
+      "new_description": "Preparation code and notes for Python OPPE 2 — IIT Madras, T3 2023",
+      "topics": ["python", "oppe", "exam", "iit-madras"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\IITM\\OPPE2-December-2023"
+    }
+  ],
+  "others": [
+    {
+      "current_name": "k26rahul",
+      "new_name": "k26rahul",
+      "new_description": "GitHub profile repository",
+      "topics": ["profile", "readme"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Others\\k26rahul"
+    },
+    {
+      "current_name": "playground-2024",
+      "new_name": "playground-2024",
+      "new_description": "Collection of past experiments and ideas from 2024",
+      "topics": ["experiments", "playground", "sandbox", "learning"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Others\\playground-2024"
+    },
+    {
+      "current_name": "playground-2025",
+      "new_name": "playground-2025",
+      "new_description": "Collection of past experiments and ideas from 2025",
+      "topics": ["experiments", "playground", "sandbox", "learning"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Others\\playground-2025"
+    },
+    {
+      "current_name": "yt-channel-dl",
+      "new_name": "yt-channel-downloader",
+      "new_description": "Script for downloading all the videos of a YouTube channel.",
+      "topics": ["python", "youtube", "automation", "yt-dlp", "script"],
+      "local_repository": "C:\\k26rahul\\Code\\GitHub\\Others\\yt-channel-dl"
+    }
+  ]
+}

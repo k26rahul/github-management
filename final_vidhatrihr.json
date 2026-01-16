@@ -1,0 +1,171 @@
+{
+  "web_development": [
+    {
+      "current_name": "auth-practice",
+      "new_name": "flask-session-jwt-demo",
+      "current_description": "No description",
+      "new_description": "Session and JWT authentication systems built from scratch using Flask & SQLite. Applied to a functional To-Do application to demonstrate secure route protection.",
+      "topics": ["authentication", "security", "jwt", "flask", "sqlite", "web-development"],
+      "local_repository": "C:\\vidhatrihr\\Code\\auth-practice"
+    },
+    {
+      "current_name": "HTML-Projects",
+      "new_name": "html-projects",
+      "current_description": "Simple HTML & CSS projects.",
+      "new_description": "Simple HTML & CSS projects",
+      "topics": ["html", "css", "web-development", "frontend"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\HTML-Projects"
+    },
+    {
+      "current_name": "inventory-management-app",
+      "new_name": "inventory-management-system",
+      "current_description": "No description",
+      "new_description": "Inventory management system for warehouses featuring role-based access (Admin & Manager). Built using Flask and Vue.js.",
+      "topics": ["inventory-management", "flask", "vue-js", "web-development", "dashboard"],
+      "local_repository": "C:\\vidhatrihr\\Code\\inventory-management-app"
+    },
+    {
+      "current_name": "js-projects",
+      "new_name": "js-projects",
+      "current_description": "No description",
+      "new_description": "Mini-projects focused on JavaScript DOM manipulation",
+      "topics": ["javascript", "mini-projects", "dom", "web-development"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\js-projects"
+    },
+    {
+      "current_name": "js-projects-2",
+      "new_name": "js-projects-2",
+      "current_description": "No description",
+      "new_description": "Mini-projects exploring deeper JavaScript concepts",
+      "topics": ["javascript", "mini-projects", "web-development", "fundamentals"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\js-projects-2"
+    },
+    {
+      "current_name": "poetry-app",
+      "new_name": "poetrydb-flask-app",
+      "current_description": "No description",
+      "new_description": "Web application to fetch and display poems using the PoetryDB API, built with Flask.",
+      "topics": ["flask", "api", "poetrydb", "web-development"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\flask-apps\\poetry-app"
+    },
+    {
+      "current_name": "gutenberg-library",
+      "new_name": "gutenberg-library-app",
+      "current_description": "No description",
+      "new_description": "Web application to browse and retrieve books using the Project Gutenberg API.",
+      "topics": ["api", "gutenberg", "flask", "web-development"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\flask-apps\\gutenberg-library"
+    }
+  ],
+  "machine_learning": [
+    {
+      "current_name": "machine-learning",
+      "new_name": "ml-fundamentals",
+      "current_description": "No description",
+      "new_description": "Machine Learning fundamentals and projects using NumPy, Pandas, and Scikit-Learn.",
+      "topics": ["machine-learning", "supervised-learning", "scikit-learn"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\machine-learning"
+    }
+  ],
+  "dsa": [
+    {
+      "current_name": "Codeforces",
+      "new_name": "codeforces",
+      "current_description": "Competitive programming and DSA code. Codeforces.",
+      "new_description": "Codeforces problem solving",
+      "topics": ["codeforces", "dsa", "competitive-programming", "algorithms"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Codeforces"
+    }
+  ],
+  "iitm": [
+    {
+      "current_name": "App-Dev-1",
+      "new_name": "mad1-coursework",
+      "current_description": "Modern App Dev I, IITM BS.",
+      "new_description": "Coursework for Modern Application Development 1 — IIT Madras",
+      "topics": ["mad1", "web-development", "flask", "iit-madras"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\App-Dev-1"
+    },
+    {
+      "current_name": "js-practice",
+      "new_name": "mad2-coursework",
+      "new_description": "Coursework for Modern Application Development 2 — IIT Madras",
+      "topics": ["mad2", "web-development", "flask", "iit-madras"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\js-practice"
+    },
+    {
+      "current_name": "household-services",
+      "new_name": "mad1-project",
+      "current_description": "No description",
+      "new_description": "Household services platform connecting professionals with customers. Built using Flask, Bootstrap, SQLAlchemy, and role-based session authentication.",
+      "topics": ["mad1", "flask", "sqlalchemy", "web-development", "iit-madras"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\household-services"
+    },
+    {
+      "current_name": "mad2-project",
+      "new_name": "mad2-project",
+      "current_description": "No description",
+      "new_description": "Full stack household services platform connecting professionals with customers. Built using Flask, Vue.js, REST APIs, and role-based JWT authentication.",
+      "topics": ["mad2", "flask", "vue-js", "rest-api", "crud", "jwt-auth", "iit-madras"],
+      "local_repository": ""
+    },
+    {
+      "current_name": "ML-IITM",
+      "new_name": "machine-learning-techniques",
+      "current_description": "No description",
+      "new_description": "Coursework for Machine Learning Techniques (MLT) — IIT Madras",
+      "topics": ["machine-learning", "mlt", "iit-madras", "algorithms"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\ML-IITM"
+    },
+    {
+      "current_name": "DBMS-T2-2024",
+      "new_name": "dbms-coursework",
+      "current_description": "DBMS notes and code, IITM BS.",
+      "new_description": "Coursework for DBMS — IIT Madras, T2 2024",
+      "topics": ["dbms", "sql", "database-management", "iit-madras"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\DBMS-T2-2024"
+    },
+    {
+      "current_name": "PDSA-T2-2024",
+      "new_name": "pdsa-coursework",
+      "current_description": "PDSA notes and code, IITM BS.",
+      "new_description": "Coursework for Programming, Data Structures and Algorithms using Python (PDSA) — IIT Madras, T2 2024",
+      "topics": ["pdsa", "python", "dsa", "iit-madras"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\PDSA-T2-2024"
+    },
+    {
+      "current_name": "Python",
+      "new_name": "python-coursework",
+      "current_description": "Python notes and code, IITM BS.",
+      "new_description": "Coursework for Python Programming — IIT Madras, T1 2024",
+      "topics": ["python", "programming", "iit-madras"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\Python"
+    },
+    {
+      "current_name": "Java-T2-2025",
+      "new_name": "java-coursework",
+      "current_description": "No description",
+      "new_description": "Coursework for Java Programming — IIT Madras, T2 2025",
+      "topics": ["java", "object-oriented-programming", "iit-madras"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\Java-T2-2025"
+    }
+  ],
+  "others": [
+    {
+      "current_name": "Playground",
+      "new_name": "playground",
+      "current_description": "Random code.",
+      "new_description": "Collection of code experiments and ideas",
+      "topics": ["playground", "sandbox", "experiments"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\Playground"
+    },
+    {
+      "current_name": "vidhatrihr",
+      "new_name": "vidhatrihr",
+      "current_description": "GitHub profile repo",
+      "new_description": "GitHub profile repository",
+      "topics": ["profile", "readme"],
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\vidhatrihr"
+    }
+  ]
+}
