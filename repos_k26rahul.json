@@ -40,8 +40,13 @@
     },
     {
         "name": "bdm-assignments",
-        "description": "No description",
-        "topics": []
+        "description": "Data analysis assignments for Business Data Management — IIT Madras, T3 2025",
+        "topics": [
+            "assignments",
+            "business-data-management",
+            "data-analysis",
+            "iit-madras"
+        ]
     },
     {
         "name": "boston-housing-price-prediction",
@@ -211,8 +216,14 @@
     },
     {
         "name": "github-management",
-        "description": "No description",
-        "topics": []
+        "description": "Scripts for bulk updating repository metadata via the GitHub API and managing local git configurations.",
+        "topics": [
+            "automation",
+            "git-management",
+            "github-api",
+            "python",
+            "scripts"
+        ]
     },
     {
         "name": "html-projects",
@@ -308,8 +319,13 @@
     },
     {
         "name": "leetcode",
-        "description": "No description",
-        "topics": []
+        "description": "LeetCode problem-solving code and notes",
+        "topics": [
+            "algorithms",
+            "dsa",
+            "leetcode",
+            "problem-solving"
+        ]
     },
     {
         "name": "machine-learning-april-2023",
@@ -590,8 +606,14 @@
     },
     {
         "name": "probability-dist-viz",
-        "description": "No description",
-        "topics": []
+        "description": "Visualizing probability distributions in Jupyter Notebooks",
+        "topics": [
+            "data-visualization",
+            "jupyter-notebook",
+            "matplotlib",
+            "probability",
+            "statistics"
+        ]
     },
     {
         "name": "python-oppe1-t3-2023",
@@ -635,8 +657,13 @@
     },
     {
         "name": "python-t3-2025",
-        "description": "No description",
-        "topics": []
+        "description": "Coursework for Python Programming — IIT Madras, T3 2025",
+        "topics": [
+            "coursework",
+            "iit-madras",
+            "programming",
+            "python"
+        ]
     },
     {
         "name": "react-egghead-course",
@@ -687,8 +714,14 @@
     },
     {
         "name": "simplilearn-auto-watcher",
-        "description": "No description",
-        "topics": []
+        "description": "Script to automate Simplilearn video watch time via marker requests",
+        "topics": [
+            "automation",
+            "python",
+            "requests",
+            "script",
+            "simplilearn"
+        ]
     },
     {
         "name": "space-hackathon",
@@ -707,13 +740,23 @@
     },
     {
         "name": "sql-practice",
-        "description": "No description",
-        "topics": []
+        "description": "SQL practice using SQLite and the Northwind database",
+        "topics": [
+            "database-practice",
+            "northwind-db",
+            "sql",
+            "sqlite"
+        ]
     },
     {
         "name": "stories-by-maa",
-        "description": "No description",
-        "topics": []
+        "description": "Generating visual story content for school kids using AI video tools",
+        "topics": [
+            "ai-video",
+            "content-creation",
+            "education",
+            "storytelling"
+        ]
     },
     {
         "name": "studymate",
