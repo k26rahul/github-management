@@ -1,82 +1,203 @@
 [
     {
         "name": "codeforces",
-        "description": "Codeforces problem solving"
+        "description": "Codeforces problem solving",
+        "topics": [
+            "algorithms",
+            "codeforces",
+            "competitive-programming",
+            "dsa"
+        ]
     },
     {
         "name": "dbms-coursework",
-        "description": "Coursework for DBMS — IIT Madras, T2 2024"
+        "description": "Coursework for DBMS — IIT Madras, T2 2024",
+        "topics": [
+            "database-management",
+            "dbms",
+            "iit-madras",
+            "sql"
+        ]
     },
     {
         "name": "flask-session-jwt-demo",
-        "description": "Session and JWT authentication systems built from scratch using Flask & SQLite. Applied to a functional To-Do application to demonstrate secure route protection."
+        "description": "Session and JWT authentication systems built from scratch using Flask & SQLite. Applied to a functional To-Do application to demonstrate secure route protection.",
+        "topics": [
+            "authentication",
+            "flask",
+            "jwt",
+            "security",
+            "sqlite",
+            "web-development"
+        ]
     },
     {
         "name": "gutenberg-library-app",
-        "description": "Web application to browse and retrieve books using the Project Gutenberg API."
+        "description": "Web application to browse and retrieve books using the Project Gutenberg API.",
+        "topics": [
+            "api",
+            "flask",
+            "gutenberg",
+            "web-development"
+        ]
     },
     {
         "name": "html-projects",
-        "description": "Simple HTML & CSS projects"
+        "description": "Simple HTML & CSS projects",
+        "topics": [
+            "css",
+            "frontend",
+            "html",
+            "web-development"
+        ]
     },
     {
         "name": "inventory-management-system",
-        "description": "Inventory management system for warehouses featuring role-based access (Admin & Manager). Built using Flask and Vue.js."
+        "description": "Inventory management system for warehouses featuring role-based access (Admin & Manager). Built using Flask and Vue.js.",
+        "topics": [
+            "dashboard",
+            "flask",
+            "inventory-management",
+            "vue-js",
+            "web-development"
+        ]
     },
     {
         "name": "java-coursework",
-        "description": "Coursework for Java Programming — IIT Madras, T2 2025"
+        "description": "Coursework for Java Programming — IIT Madras, T2 2025",
+        "topics": [
+            "iit-madras",
+            "java",
+            "object-oriented-programming"
+        ]
     },
     {
         "name": "js-projects",
-        "description": "Mini-projects focused on JavaScript DOM manipulation"
+        "description": "Mini-projects focused on JavaScript DOM manipulation",
+        "topics": [
+            "dom",
+            "javascript",
+            "mini-projects",
+            "web-development"
+        ]
     },
     {
         "name": "js-projects-2",
-        "description": "Mini-projects exploring deeper JavaScript concepts"
+        "description": "Mini-projects exploring deeper JavaScript concepts",
+        "topics": [
+            "fundamentals",
+            "javascript",
+            "mini-projects",
+            "web-development"
+        ]
     },
     {
         "name": "machine-learning-techniques",
-        "description": "Coursework for Machine Learning Techniques (MLT) — IIT Madras"
+        "description": "Coursework for Machine Learning Techniques (MLT) — IIT Madras",
+        "topics": [
+            "algorithms",
+            "iit-madras",
+            "machine-learning",
+            "mlt"
+        ]
     },
     {
         "name": "mad1-coursework",
-        "description": "Coursework for Modern Application Development 1 — IIT Madras"
+        "description": "Coursework for Modern Application Development 1 — IIT Madras",
+        "topics": [
+            "flask",
+            "iit-madras",
+            "mad1",
+            "web-development"
+        ]
     },
     {
         "name": "mad1-project",
-        "description": "Household services platform connecting professionals with customers. Built using Flask, Bootstrap, SQLAlchemy, and role-based session authentication."
+        "description": "Household services platform connecting professionals with customers. Built using Flask, Bootstrap, SQLAlchemy, and role-based session authentication.",
+        "topics": [
+            "flask",
+            "iit-madras",
+            "mad1",
+            "sqlalchemy",
+            "web-development"
+        ]
     },
     {
         "name": "mad2-coursework",
-        "description": "Coursework for Modern Application Development 2 — IIT Madras"
+        "description": "Coursework for Modern Application Development 2 — IIT Madras",
+        "topics": [
+            "flask",
+            "iit-madras",
+            "mad2",
+            "web-development"
+        ]
     },
     {
         "name": "mad2-project",
-        "description": "Full stack household services platform connecting professionals with customers. Built using Flask, Vue.js, REST APIs, and role-based JWT authentication."
+        "description": "Full stack household services platform connecting professionals with customers. Built using Flask, Vue.js, REST APIs, and role-based JWT authentication.",
+        "topics": [
+            "crud",
+            "flask",
+            "iit-madras",
+            "jwt-auth",
+            "mad2",
+            "rest-api",
+            "vue-js"
+        ]
     },
     {
         "name": "ml-fundamentals",
-        "description": "Machine Learning fundamentals and projects using NumPy, Pandas, and Scikit-Learn."
+        "description": "Machine Learning fundamentals and projects using NumPy, Pandas, and Scikit-Learn.",
+        "topics": [
+            "machine-learning",
+            "scikit-learn",
+            "supervised-learning"
+        ]
     },
     {
         "name": "pdsa-coursework",
-        "description": "Coursework for Programming, Data Structures and Algorithms using Python (PDSA) — IIT Madras, T2 2024"
+        "description": "Coursework for Programming, Data Structures and Algorithms using Python (PDSA) — IIT Madras, T2 2024",
+        "topics": [
+            "dsa",
+            "iit-madras",
+            "pdsa",
+            "python"
+        ]
     },
     {
         "name": "playground",
-        "description": "Collection of code experiments and ideas"
+        "description": "Collection of code experiments and ideas",
+        "topics": [
+            "experiments",
+            "playground",
+            "sandbox"
+        ]
     },
     {
         "name": "poetrydb-flask-app",
-        "description": "Web application to fetch and display poems using the PoetryDB API, built with Flask."
+        "description": "Web application to fetch and display poems using the PoetryDB API, built with Flask.",
+        "topics": [
+            "api",
+            "flask",
+            "poetrydb",
+            "web-development"
+        ]
     },
     {
         "name": "python-coursework",
-        "description": "Coursework for Python Programming — IIT Madras, T1 2024"
+        "description": "Coursework for Python Programming — IIT Madras, T1 2024",
+        "topics": [
+            "iit-madras",
+            "programming",
+            "python"
+        ]
     },
     {
         "name": "vidhatrihr",
-        "description": "GitHub profile repository"
+        "description": "GitHub profile repository",
+        "topics": [
+            "profile",
+            "readme"
+        ]
     }
 ]

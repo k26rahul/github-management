@@ -1,0 +1,58 @@
+{
+  "New Repositories": [
+    {
+      "current_name": "bdm-assignments",
+      "new_name": "bdm-assignments",
+      "new_description": "Data analysis assignments for Business Data Management — IIT Madras, T3 2025",
+      "topics": ["iit-madras", "business-data-management", "data-analysis", "assignments"]
+    },
+    {
+      "current_name": "github-management",
+      "new_name": "github-management",
+      "new_description": "Scripts for bulk updating repository metadata via the GitHub API and managing local git configurations.",
+      "topics": ["github-api", "automation", "python", "git-management", "scripts"]
+    },
+    {
+      "current_name": "leetcode",
+      "new_name": "leetcode",
+      "new_description": "LeetCode problem-solving code and notes",
+      "topics": ["leetcode", "dsa", "algorithms", "problem-solving"]
+    },
+    {
+      "current_name": "python-t3-2025",
+      "new_name": "python-t3-2025",
+      "new_description": "Coursework for Python Programming — IIT Madras, T3 2025",
+      "topics": ["iit-madras", "python", "programming", "coursework"]
+    },
+    {
+      "current_name": "sql-practice",
+      "new_name": "sql-practice",
+      "new_description": "SQL practice using SQLite and the Northwind database",
+      "topics": ["sql", "sqlite", "northwind-db", "database-practice"]
+    },
+    {
+      "current_name": "probability-dist-viz",
+      "new_name": "probability-dist-viz",
+      "new_description": "Visualizing probability distributions in Jupyter Notebooks",
+      "topics": [
+        "data-visualization",
+        "matplotlib",
+        "jupyter-notebook",
+        "probability",
+        "statistics"
+      ]
+    },
+    {
+      "current_name": "stories-by-maa",
+      "new_name": "stories-by-maa",
+      "new_description": "Generating visual story content for school kids using AI video tools",
+      "topics": ["ai-video", "storytelling", "education", "content-creation"]
+    },
+    {
+      "current_name": "simplilearn-auto-watcher",
+      "new_name": "simplilearn-auto-watcher",
+      "new_description": "Script to automate Simplilearn video watch time via marker requests",
+      "topics": ["automation", "python", "requests", "simplilearn", "script"]
+    }
+  ]
+}

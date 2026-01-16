@@ -1,270 +1,793 @@
 [
     {
         "name": "ai-agent-hackathon",
-        "description": "Building AI agents using Agentverse and DeltaV — Fetch.ai x IIT Madras Hackathon, 2024"
+        "description": "Building AI agents using Agentverse and DeltaV — Fetch.ai x IIT Madras Hackathon, 2024",
+        "topics": [
+            "agentverse",
+            "ai-agents",
+            "fetch-ai",
+            "hackathon",
+            "iit-madras"
+        ]
     },
     {
         "name": "ai-rpg-chat",
-        "description": "AI-powered RPG chat interface using the Gemini API"
+        "description": "AI-powered RPG chat interface using the Gemini API",
+        "topics": [
+            "ai",
+            "chatbot",
+            "frontend",
+            "game-development",
+            "gemini-api",
+            "javascript",
+            "rpg",
+            "web-development"
+        ]
     },
     {
         "name": "auth-system-flask",
-        "description": "Session- and token-based authentication system using Flask & SQLite, with secure CRUD in a sample to-do app."
+        "description": "Session- and token-based authentication system using Flask & SQLite, with secure CRUD in a sample to-do app.",
+        "topics": [
+            "authentication",
+            "backend",
+            "flask",
+            "jwt",
+            "security",
+            "sqlite",
+            "todo",
+            "web-development"
+        ]
+    },
+    {
+        "name": "bdm-assignments",
+        "description": "No description",
+        "topics": []
     },
     {
         "name": "boston-housing-price-prediction",
-        "description": "Boston housing price prediction using machine learning"
+        "description": "Boston housing price prediction using machine learning",
+        "topics": [
+            "boston-housing",
+            "housing-prices",
+            "machine-learning",
+            "regression",
+            "scikit-learn",
+            "supervised-learning"
+        ]
     },
     {
         "name": "bs-grade-calculator",
-        "description": "Web application to calculate IIT Madras BS final course grades"
+        "description": "Web application to calculate IIT Madras BS final course grades",
+        "topics": [
+            "bs",
+            "frontend",
+            "grades",
+            "iit-madras",
+            "web-development"
+        ]
     },
     {
         "name": "codeforces-december-2023",
-        "description": "Codeforces beginner problem solutions with notes"
+        "description": "Codeforces beginner problem solutions with notes",
+        "topics": [
+            "codeforces",
+            "competitive-programming",
+            "dsa"
+        ]
     },
     {
         "name": "cricket-hackathon-2023",
-        "description": "IPL 2023 powerplay score prediction — Cricket & Coding Challenge, IIT Madras, 2023"
+        "description": "IPL 2023 powerplay score prediction — Cricket & Coding Challenge, IIT Madras, 2023",
+        "topics": [
+            "cricket",
+            "data-science",
+            "hackathon",
+            "iit-madras",
+            "ipl",
+            "machine-learning",
+            "regression",
+            "sports-analytics"
+        ]
     },
     {
         "name": "dbms-t1-2024",
-        "description": "Coursework for DBMS — IIT Madras, T1 2024"
+        "description": "Coursework for DBMS — IIT Madras, T1 2024",
+        "topics": [
+            "database-management",
+            "dbms",
+            "iit-madras",
+            "sql"
+        ]
     },
     {
         "name": "dbms-t2-2024",
-        "description": "Coursework for DBMS — IIT Madras, T2 2024"
+        "description": "Coursework for DBMS — IIT Madras, T2 2024",
+        "topics": [
+            "database-management",
+            "dbms",
+            "iit-madras",
+            "sql"
+        ]
     },
     {
         "name": "dbms-t3-2023",
-        "description": "Coursework for DBMS — IIT Madras, T3 2023"
+        "description": "Coursework for DBMS — IIT Madras, T3 2023",
+        "topics": [
+            "database-management",
+            "dbms",
+            "iit-madras",
+            "sql"
+        ]
     },
     {
         "name": "deep-learning-march-2024",
-        "description": "Introduction to backpropagation, McCulloch–Pitts neuron, perceptron, multilayer perceptron, and feedforward neural networks."
+        "description": "Introduction to backpropagation, McCulloch–Pitts neuron, perceptron, multilayer perceptron, and feedforward neural networks.",
+        "topics": [
+            "backpropagation",
+            "deep-learning",
+            "neural-networks",
+            "neuron",
+            "perceptron"
+        ]
     },
     {
         "name": "dsa-cp",
-        "description": "Competitive programming and DSA problem-solving code"
+        "description": "Competitive programming and DSA problem-solving code",
+        "topics": [
+            "codeforces",
+            "competitive-programming",
+            "dsa"
+        ]
     },
     {
         "name": "dsa-java-march-2024",
-        "description": "Data structures and algorithms practice in Java"
+        "description": "Data structures and algorithms practice in Java",
+        "topics": [
+            "algorithms",
+            "data-structures",
+            "dsa",
+            "java"
+        ]
     },
     {
         "name": "dsa-java-september-2024",
-        "description": "Data structures and algorithms practice in Java"
+        "description": "Data structures and algorithms practice in Java",
+        "topics": [
+            "algorithms",
+            "data-structures",
+            "dsa",
+            "java"
+        ]
     },
     {
         "name": "event-emitter-lib",
-        "description": "Event emitter library built with TypeScript, supporting event handling, emitter enable/disable, and CJS/ESM/UMD builds."
+        "description": "Event emitter library built with TypeScript, supporting event handling, emitter enable/disable, and CJS/ESM/UMD builds.",
+        "topics": [
+            "cjs",
+            "esm",
+            "event",
+            "javascript",
+            "library",
+            "npm",
+            "tooling",
+            "typescript",
+            "umd"
+        ]
     },
     {
         "name": "expense-tracker-react",
-        "description": "Expense tracker built with React and Vite, using Context API, reducer pattern, and local storage."
+        "description": "Expense tracker built with React and Vite, using Context API, reducer pattern, and local storage.",
+        "topics": [
+            "expense-tracker",
+            "frontend",
+            "react",
+            "reducer",
+            "state-management",
+            "vite",
+            "web-development"
+        ]
     },
     {
         "name": "fastapi-postgresql-basics",
-        "description": "Introduction to FastAPI with PostgreSQL"
+        "description": "Introduction to FastAPI with PostgreSQL",
+        "topics": [
+            "api",
+            "backend",
+            "fastapi",
+            "postgresql",
+            "web-development"
+        ]
     },
     {
         "name": "flask-sqlalchemy-template",
-        "description": "Starter template for building web applications using Flask and SQLAlchemy."
+        "description": "Starter template for building web applications using Flask and SQLAlchemy.",
+        "topics": [
+            "boilerplate",
+            "flask",
+            "sqlalchemy",
+            "template",
+            "web-development"
+        ]
+    },
+    {
+        "name": "github-management",
+        "description": "No description",
+        "topics": []
     },
     {
         "name": "html-projects",
-        "description": "HTML and CSS practice projects, 2024"
+        "description": "HTML and CSS practice projects, 2024",
+        "topics": [
+            "css",
+            "frontend",
+            "html",
+            "web-development"
+        ]
     },
     {
         "name": "inventory-management-system",
-        "description": "Role-based (admin & manager) warehouse inventory management system built with Flask and Vue.js."
+        "description": "Role-based (admin & manager) warehouse inventory management system built with Flask and Vue.js.",
+        "topics": [
+            "dashboard",
+            "flask",
+            "frontend",
+            "inventory-management",
+            "javascript",
+            "role-based",
+            "vue",
+            "web-development"
+        ]
     },
     {
         "name": "ipl2023-powerplay-score-prediction",
-        "description": "Revisiting IITM Cricket Hackathon 2023 project — IPL 2023 powerplay score prediction using the official dataset."
+        "description": "Revisiting IITM Cricket Hackathon 2023 project — IPL 2023 powerplay score prediction using the official dataset.",
+        "topics": [
+            "cricket",
+            "ipl",
+            "machine-learning",
+            "regression",
+            "sports-analytics"
+        ]
     },
     {
         "name": "java-t1-2024",
-        "description": "Coursework for Java Programming — IIT Madras, T1 2024"
+        "description": "Coursework for Java Programming — IIT Madras, T1 2024",
+        "topics": [
+            "iit-madras",
+            "java",
+            "object-oriented-programming"
+        ]
     },
     {
         "name": "java-t1-2025",
-        "description": "Coursework for Java Programming — IIT Madras, T1 2025"
+        "description": "Coursework for Java Programming — IIT Madras, T1 2025",
+        "topics": [
+            "iit-madras",
+            "java",
+            "object-oriented-programming"
+        ]
     },
     {
         "name": "java-t2-2025",
-        "description": "Coursework for Java Programming — IIT Madras, T2 2025"
+        "description": "Coursework for Java Programming — IIT Madras, T2 2025",
+        "topics": [
+            "iit-madras",
+            "java",
+            "object-oriented-programming"
+        ]
     },
     {
         "name": "js-projects",
-        "description": "Collection of JavaScript mini projects focused on core JavaScript concepts and DOM manipulation, 2025."
+        "description": "Collection of JavaScript mini projects focused on core JavaScript concepts and DOM manipulation, 2025.",
+        "topics": [
+            "dom",
+            "fundamentals",
+            "javascript",
+            "mini-projects",
+            "web-development"
+        ]
     },
     {
         "name": "js-projects-2",
-        "description": "Second collection of JavaScript mini projects focused on deeper JavaScript concepts, 2025."
+        "description": "Second collection of JavaScript mini projects focused on deeper JavaScript concepts, 2025.",
+        "topics": [
+            "advanced",
+            "fundamentals",
+            "javascript",
+            "mini-projects",
+            "web-development"
+        ]
     },
     {
         "name": "k26rahul",
-        "description": "GitHub profile repository"
+        "description": "GitHub profile repository",
+        "topics": [
+            "profile",
+            "readme"
+        ]
+    },
+    {
+        "name": "leetcode",
+        "description": "No description",
+        "topics": []
     },
     {
         "name": "machine-learning-april-2023",
-        "description": "Projects from freeCodeCamp’s Machine Learning for Everybody by Kylie Ying and Boston housing price prediction by CodeWithHarry."
+        "description": "Projects from freeCodeCamp’s Machine Learning for Everybody by Kylie Ying and Boston housing price prediction by CodeWithHarry.",
+        "topics": [
+            "codewithharry",
+            "freecodecamp",
+            "machine-learning"
+        ]
     },
     {
         "name": "machine-learning-april-2025",
-        "description": "Projects from freeCodeCamp’s Machine Learning for Everybody by Kylie Ying and Boston housing price prediction by CodeWithHarry."
+        "description": "Projects from freeCodeCamp’s Machine Learning for Everybody by Kylie Ying and Boston housing price prediction by CodeWithHarry.",
+        "topics": [
+            "codewithharry",
+            "freecodecamp",
+            "machine-learning"
+        ]
     },
     {
         "name": "machine-learning-kylie-ying",
-        "description": "Practice code and projects from freeCodeCamp’s Machine Learning for Everybody by Kylie Ying."
+        "description": "Practice code and projects from freeCodeCamp’s Machine Learning for Everybody by Kylie Ying.",
+        "topics": [
+            "codewithharry",
+            "freecodecamp",
+            "machine-learning"
+        ]
     },
     {
         "name": "machine-learning-march-2024",
-        "description": "Introduction to imbalanced classification, TensorFlow regression, and anomaly detection."
+        "description": "Introduction to imbalanced classification, TensorFlow regression, and anomaly detection.",
+        "topics": [
+            "anomaly-detection",
+            "classification",
+            "imbalanced",
+            "machine-learning",
+            "regression",
+            "tensorflow"
+        ]
     },
     {
         "name": "machine-learning-techniques",
-        "description": "Coursework for Machine Learning Techniques (MLT) — IIT Madras, T2 2025"
+        "description": "Coursework for Machine Learning Techniques (MLT) — IIT Madras, T2 2025",
+        "topics": [
+            "algorithms",
+            "iit-madras",
+            "machine-learning",
+            "mlt",
+            "supervised-learning"
+        ]
     },
     {
         "name": "mad1-course-website",
-        "description": "Website for week-wise lessons and resources for Modern Application Development 1, built with Next.js and Nextra."
+        "description": "Website for week-wise lessons and resources for Modern Application Development 1, built with Next.js and Nextra.",
+        "topics": [
+            "documentation",
+            "iit-madras",
+            "mad1",
+            "next-js",
+            "nextra",
+            "resources",
+            "tutorials",
+            "web-development"
+        ]
     },
     {
         "name": "mad1-coursework",
-        "description": "Coursework for Modern Application Development 1 — IIT Madras, T3 2024"
+        "description": "Coursework for Modern Application Development 1 — IIT Madras, T3 2024",
+        "topics": [
+            "bootstrap",
+            "coursework",
+            "flask",
+            "iit-madras",
+            "mad1",
+            "python",
+            "sqlalchemy",
+            "web-development"
+        ]
     },
     {
         "name": "mad1-project",
-        "description": "Household services web application built with Flask, Bootstrap, and SQLAlchemy."
+        "description": "Household services web application built with Flask, Bootstrap, and SQLAlchemy.",
+        "topics": [
+            "bootstrap",
+            "flask",
+            "iit-madras",
+            "mad1",
+            "sqlalchemy",
+            "web-development"
+        ]
     },
     {
         "name": "mad1-project-prototype",
-        "description": "Prototype of the household services web application"
+        "description": "Prototype of the household services web application",
+        "topics": [
+            "bootstrap",
+            "flask",
+            "iit-madras",
+            "mad1",
+            "prototype",
+            "sqlalchemy",
+            "web-development"
+        ]
     },
     {
         "name": "mad1-project-skeleton",
-        "description": "Skeleton code for household services web application"
+        "description": "Skeleton code for household services web application",
+        "topics": [
+            "bootstrap",
+            "flask",
+            "iit-madras",
+            "mad1",
+            "skeleton",
+            "sqlalchemy",
+            "web-development"
+        ]
     },
     {
         "name": "mad2-coursework",
-        "description": "Coursework for Modern Application Development 2 — IIT Madras, T1 2025"
+        "description": "Coursework for Modern Application Development 2 — IIT Madras, T1 2025",
+        "topics": [
+            "api",
+            "database",
+            "dbms",
+            "iit-madras",
+            "javascript",
+            "mad2",
+            "sqlalchemy",
+            "vue-js",
+            "web-development"
+        ]
     },
     {
         "name": "mad2-project",
-        "description": "Quiz application built with Flask, Vue.js, and REST APIs."
+        "description": "Quiz application built with Flask, Vue.js, and REST APIs.",
+        "topics": [
+            "flask",
+            "iit-madras",
+            "mad2",
+            "quiz-app",
+            "rest-api",
+            "vue-js",
+            "web-development"
+        ]
     },
     {
         "name": "mad2-project-skeleton",
-        "description": "Skeleton code for household services application"
+        "description": "Skeleton code for household services application",
+        "topics": [
+            "flask",
+            "iit-madras",
+            "mad2",
+            "rest-api",
+            "skeleton",
+            "vue-js",
+            "web-development"
+        ]
     },
     {
         "name": "microsoft-ai-odyssey",
-        "description": "Solutions to Microsoft AI Learning Challenge problems — 2024"
+        "description": "Solutions to Microsoft AI Learning Challenge problems — 2024",
+        "topics": [
+            "ai",
+            "challenges",
+            "learning",
+            "machine-learning",
+            "microsoft"
+        ]
     },
     {
         "name": "ml-projects-siddhardhan",
-        "description": "Projects created by following Siddhardhan’s Machine Learning YouTube playlist."
+        "description": "Projects created by following Siddhardhan’s Machine Learning YouTube playlist.",
+        "topics": [
+            "machine-learning",
+            "projects",
+            "supervised-learning",
+            "tutorials"
+        ]
     },
     {
         "name": "mosh-ultimate-dsa-java",
-        "description": "Java data structures practice based on Mosh Hamedani’s Ultimate Data Structures & Algorithms course."
+        "description": "Java data structures practice based on Mosh Hamedani’s Ultimate Data Structures & Algorithms course.",
+        "topics": [
+            "algorithms",
+            "data-structures",
+            "dsa",
+            "java"
+        ]
     },
     {
         "name": "pdsa-t1-2024",
-        "description": "Coursework for Programming, Data Structures and Algorithms using Python (PDSA) — IIT Madras, T1 2024"
+        "description": "Coursework for Programming, Data Structures and Algorithms using Python (PDSA) — IIT Madras, T1 2024",
+        "topics": [
+            "algorithms",
+            "data-structures",
+            "dsa",
+            "iit-madras",
+            "pdsa",
+            "python"
+        ]
     },
     {
         "name": "pdsa-t2-2024",
-        "description": "Coursework for Programming, Data Structures and Algorithms using Python (PDSA) — IIT Madras, T2 2024"
+        "description": "Coursework for Programming, Data Structures and Algorithms using Python (PDSA) — IIT Madras, T2 2024",
+        "topics": [
+            "algorithms",
+            "data-structures",
+            "dsa",
+            "iit-madras",
+            "pdsa",
+            "python"
+        ]
     },
     {
         "name": "pixelmind-ai-hackathon",
-        "description": "Automated image color enhancement using machine learning — PixelMind AI Hackathon, 2023"
+        "description": "Automated image color enhancement using machine learning — PixelMind AI Hackathon, 2023",
+        "topics": [
+            "computer-vision",
+            "hackathon",
+            "iit-madras",
+            "image-processing",
+            "machine-learning"
+        ]
     },
     {
         "name": "playground-2024",
-        "description": "Collection of past experiments and ideas from 2024"
+        "description": "Collection of past experiments and ideas from 2024",
+        "topics": [
+            "experiments",
+            "learning",
+            "playground",
+            "sandbox"
+        ]
     },
     {
         "name": "playground-2025",
-        "description": "Collection of past experiments and ideas from 2025"
+        "description": "Collection of past experiments and ideas from 2025",
+        "topics": [
+            "experiments",
+            "learning",
+            "playground",
+            "sandbox"
+        ]
     },
     {
         "name": "plotly-vector-visualizer",
-        "description": "Interactive vector visualization tool built with Plotly.js for demonstrating vector addition in a web interface."
+        "description": "Interactive vector visualization tool built with Plotly.js for demonstrating vector addition in a web interface.",
+        "topics": [
+            "data-visualization",
+            "javascript",
+            "math",
+            "plotly",
+            "web-development"
+        ]
     },
     {
         "name": "poetrydb-flask-app",
-        "description": "Web application to fetch and display poems using the PoetryDB API, built with Flask."
+        "description": "Web application to fetch and display poems using the PoetryDB API, built with Flask.",
+        "topics": [
+            "api",
+            "flask",
+            "poetrydb",
+            "requests",
+            "web-development"
+        ]
     },
     {
         "name": "poster-catalogue-app",
-        "description": "Digital poster catalogue application built from PDF sources, supporting browsing, selection, and order generation, using PyMuPDF, Flask, and Vue.js."
+        "description": "Digital poster catalogue application built from PDF sources, supporting browsing, selection, and order generation, using PyMuPDF, Flask, and Vue.js.",
+        "topics": [
+            "document-processing",
+            "flask",
+            "pdf",
+            "pymupdf",
+            "vue",
+            "web-development"
+        ]
+    },
+    {
+        "name": "probability-dist-viz",
+        "description": "No description",
+        "topics": []
     },
     {
         "name": "python-oppe1-t3-2023",
-        "description": "Preparation code and notes for Python OPPE 1 — IIT Madras, T3 2023"
+        "description": "Preparation code and notes for Python OPPE 1 — IIT Madras, T3 2023",
+        "topics": [
+            "exam",
+            "iit-madras",
+            "oppe",
+            "python"
+        ]
     },
     {
         "name": "python-oppe2-t3-2023",
-        "description": "Preparation code and notes for Python OPPE 2 — IIT Madras, T3 2023"
+        "description": "Preparation code and notes for Python OPPE 2 — IIT Madras, T3 2023",
+        "topics": [
+            "exam",
+            "iit-madras",
+            "oppe",
+            "python"
+        ]
     },
     {
         "name": "python-t1-2024",
-        "description": "Coursework for Python Programming — IIT Madras, T1 2024"
+        "description": "Coursework for Python Programming — IIT Madras, T1 2024",
+        "topics": [
+            "iit-madras",
+            "problem-solving",
+            "programming",
+            "python"
+        ]
     },
     {
         "name": "python-t2-2023",
-        "description": "Coursework for Python Programming — IIT Madras, T2 2023"
+        "description": "Coursework for Python Programming — IIT Madras, T2 2023",
+        "topics": [
+            "iit-madras",
+            "problem-solving",
+            "programming",
+            "python"
+        ]
+    },
+    {
+        "name": "python-t3-2025",
+        "description": "No description",
+        "topics": []
     },
     {
         "name": "react-egghead-course",
-        "description": "Practice code for The Beginner’s Guide to React by Kent C. Dodds, 2024"
+        "description": "Practice code for The Beginner’s Guide to React by Kent C. Dodds, 2024",
+        "topics": [
+            "course",
+            "egghead",
+            "frontend",
+            "learning",
+            "react"
+        ]
     },
     {
         "name": "react-egghead-course-2",
-        "description": "Practice code for The Beginner’s Guide to React by Kent C. Dodds, 2024"
+        "description": "Practice code for The Beginner’s Guide to React by Kent C. Dodds, 2024",
+        "topics": [
+            "course",
+            "egghead",
+            "frontend",
+            "learning",
+            "react"
+        ]
     },
     {
         "name": "remotion-story-video",
-        "description": "Programmatic story video generation using Remotion, combining AI-generated images, subtitles, and audio."
+        "description": "Programmatic story video generation using Remotion, combining AI-generated images, subtitles, and audio.",
+        "topics": [
+            "ai",
+            "automation",
+            "content",
+            "javascript",
+            "remotion",
+            "video",
+            "video-generation"
+        ]
     },
     {
         "name": "rythmfit-hack-o-pitch-2.0",
-        "description": "AI dance and fitness trainer prototype — Hack-O-Pitch 2.0, IIT Madras, 2023"
+        "description": "AI dance and fitness trainer prototype — Hack-O-Pitch 2.0, IIT Madras, 2023",
+        "topics": [
+            "astro",
+            "computer-vision",
+            "fitness",
+            "hackathon",
+            "iit-madras",
+            "tensorflow"
+        ]
+    },
+    {
+        "name": "simplilearn-auto-watcher",
+        "description": "No description",
+        "topics": []
     },
     {
         "name": "space-hackathon",
-        "description": "ISS cargo management system with placement, retrieval, and 3D visualization — IIT Delhi Hackathon, 2025"
+        "description": "ISS cargo management system with placement, retrieval, and 3D visualization — IIT Delhi Hackathon, 2025",
+        "topics": [
+            "3d",
+            "algorithms",
+            "bin-packing",
+            "hackathon",
+            "iit-delhi",
+            "optimization",
+            "space",
+            "threejs",
+            "visualization"
+        ]
+    },
+    {
+        "name": "sql-practice",
+        "description": "No description",
+        "topics": []
+    },
+    {
+        "name": "stories-by-maa",
+        "description": "No description",
+        "topics": []
     },
     {
         "name": "studymate",
-        "description": "AI agent–based study assistant for notes, practice, and career guidance — Fetch.ai x IIT Madras Hackathon, 2024"
+        "description": "AI agent–based study assistant for notes, practice, and career guidance — Fetch.ai x IIT Madras Hackathon, 2024",
+        "topics": [
+            "ai-agents",
+            "edtech",
+            "fetch-ai",
+            "hackathon",
+            "iit-madras"
+        ]
     },
     {
         "name": "tic-tac-toe-react",
-        "description": "React implementation of Tic Tac Toe, 2024"
+        "description": "React implementation of Tic Tac Toe, 2024",
+        "topics": [
+            "frontend",
+            "game-development",
+            "react"
+        ]
     },
     {
         "name": "tic-tac-toe-vanilla-js",
-        "description": "Initial vanilla JavaScript implementation of Tic Tac Toe, 2024"
+        "description": "Initial vanilla JavaScript implementation of Tic Tac Toe, 2024",
+        "topics": [
+            "frontend",
+            "game-development",
+            "javascript",
+            "vanilla-js"
+        ]
     },
     {
         "name": "tic-tac-toe-vanilla-js-2025",
-        "description": "Tic Tac Toe game built with vanilla JavaScript, 2025"
+        "description": "Tic Tac Toe game built with vanilla JavaScript, 2025",
+        "topics": [
+            "frontend",
+            "game-development",
+            "javascript",
+            "vanilla-js"
+        ]
     },
     {
         "name": "violence-detection-hackathon",
-        "description": "Real-time video violence detection using machine learning — MLSA MIET Dev Gathering, 2024"
+        "description": "Real-time video violence detection using machine learning — MLSA MIET Dev Gathering, 2024",
+        "topics": [
+            "computer-vision",
+            "deep-learning",
+            "hackathon",
+            "machine-learning",
+            "video-analysis"
+        ]
     },
     {
         "name": "weather-app-react",
-        "description": "React-based weather application built with Vite, implementing state management, API integration, and caching."
+        "description": "React-based weather application built with Vite, implementing state management, API integration, and caching.",
+        "topics": [
+            "api",
+            "caching",
+            "frontend",
+            "react",
+            "weather",
+            "weather-app",
+            "web-development"
+        ]
     },
     {
         "name": "yt-channel-downloader",
-        "description": "Script for downloading all the videos of a YouTube channel."
+        "description": "Script for downloading all the videos of a YouTube channel.",
+        "topics": [
+            "automation",
+            "python",
+            "script",
+            "youtube",
+            "yt-dlp"
+        ]
     }
 ]
