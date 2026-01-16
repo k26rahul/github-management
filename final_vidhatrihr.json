@@ -6,7 +6,7 @@
       "current_description": "No description",
       "new_description": "Session and JWT authentication systems built from scratch using Flask & SQLite. Applied to a functional To-Do application to demonstrate secure route protection.",
       "topics": ["authentication", "security", "jwt", "flask", "sqlite", "web-development"],
-      "local_repository": "C:\\vidhatrihr\\Code\\auth-practice"
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\auth-practice"
     },
     {
       "current_name": "HTML-Projects",
@@ -22,7 +22,7 @@
       "current_description": "No description",
       "new_description": "Inventory management system for warehouses featuring role-based access (Admin & Manager). Built using Flask and Vue.js.",
       "topics": ["inventory-management", "flask", "vue-js", "web-development", "dashboard"],
-      "local_repository": "C:\\vidhatrihr\\Code\\inventory-management-app"
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\inventory-management-app"
     },
     {
       "current_name": "js-projects",
@@ -46,7 +46,7 @@
       "current_description": "No description",
       "new_description": "Web application to fetch and display poems using the PoetryDB API, built with Flask.",
       "topics": ["flask", "api", "poetrydb", "web-development"],
-      "local_repository": "C:\\vidhatrihr\\Code\\Github\\flask-apps\\poetry-app"
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\poetry-app"
     },
     {
       "current_name": "gutenberg-library",
@@ -54,7 +54,7 @@
       "current_description": "No description",
       "new_description": "Web application to browse and retrieve books using the Project Gutenberg API.",
       "topics": ["api", "gutenberg", "flask", "web-development"],
-      "local_repository": "C:\\vidhatrihr\\Code\\Github\\flask-apps\\gutenberg-library"
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\gutenberg-library"
     }
   ],
   "machine_learning": [
@@ -74,7 +74,7 @@
       "current_description": "Competitive programming and DSA code. Codeforces.",
       "new_description": "Codeforces problem solving",
       "topics": ["codeforces", "dsa", "competitive-programming", "algorithms"],
-      "local_repository": "C:\\vidhatrihr\\Code\\Codeforces"
+      "local_repository": "C:\\vidhatrihr\\Code\\Github\\Codeforces"
     }
   ],
   "iitm": [
