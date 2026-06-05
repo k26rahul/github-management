@@ -25,6 +25,17 @@
         ]
     },
     {
+        "name": "ai-rpg-engine",
+        "description": "Schema-driven text RPG engine powered by the Gemini API, where users paste an AI-generated story blueprint to play through branching dialogues, choices, and character stats",
+        "topics": [
+            "game-development",
+            "gemini-api",
+            "javascript",
+            "rpg",
+            "web-development"
+        ]
+    },
+    {
         "name": "auth-system-flask",
         "description": "Session- and token-based authentication system using Flask & SQLite, with secure CRUD in a sample to-do app.",
         "topics": [
@@ -36,6 +47,16 @@
             "sqlite",
             "todo",
             "web-development"
+        ]
+    },
+    {
+        "name": "ba-project",
+        "description": "Script to programmatically generate a formatted PDF report from Markdown content and assets using ReportLab",
+        "topics": [
+            "pdf-generation",
+            "python",
+            "reportlab",
+            "script"
         ]
     },
     {
@@ -136,6 +157,48 @@
         ]
     },
     {
+        "name": "dl-and-genai",
+        "description": "Coursework for Deep Learning and Generative AI — IIT Madras, T1 2026",
+        "topics": [
+            "deep-learning",
+            "generative-ai",
+            "iit-madras"
+        ]
+    },
+    {
+        "name": "dl-genai-nppe1",
+        "description": "Multi-class X-ray image classification across thoracic pathology categories — DL and GenAI NPPE 1, IIT Madras, T1 2026",
+        "topics": [
+            "classification",
+            "deep-learning",
+            "iit-madras",
+            "image-classification",
+            "medical-imaging"
+        ]
+    },
+    {
+        "name": "dl-genai-nppe2",
+        "description": "Plant leaf image super-resolution using GAN variants to restore 32x32 noisy images to 128x128 — DL and GenAI NPPE 2, IIT Madras, T1 2026",
+        "topics": [
+            "deep-learning",
+            "gan",
+            "iit-madras",
+            "image-processing",
+            "super-resolution"
+        ]
+    },
+    {
+        "name": "dl-genai-project",
+        "description": "Music genre classification from noisy instrument stem mashups — DL and GenAI Project, IIT Madras, T1 2026",
+        "topics": [
+            "audio-classification",
+            "deep-learning",
+            "genre-classification",
+            "iit-madras",
+            "machine-learning"
+        ]
+    },
+    {
         "name": "dsa-cp",
         "description": "Competitive programming and DSA problem-solving code",
         "topics": [
@@ -215,6 +278,27 @@
         ]
     },
     {
+        "name": "git-workshop-template-project",
+        "description": "Git workshop template project",
+        "topics": [
+            "git",
+            "github",
+            "iit-madras",
+            "template",
+            "workshop"
+        ]
+    },
+    {
+        "name": "git-workshop-website",
+        "description": "Simple educational website about Git and GitHub",
+        "topics": [
+            "git",
+            "github",
+            "iit-madras",
+            "workshop"
+        ]
+    },
+    {
         "name": "github-management",
         "description": "Scripts for bulk updating repository metadata via the GitHub API and managing local git configurations.",
         "topics": [
@@ -226,6 +310,26 @@
         ]
     },
     {
+        "name": "hands-on-unicode",
+        "description": "Exploring Unicode in Python — encoding, decoding, UTF-8, ASCII, chr(), ord(), and bytes()",
+        "topics": [
+            "encoding",
+            "python",
+            "unicode"
+        ]
+    },
+    {
+        "name": "html-games",
+        "description": "Simple browser-based games built with HTML, CSS, and JavaScript",
+        "topics": [
+            "css",
+            "frontend",
+            "game-development",
+            "html",
+            "javascript"
+        ]
+    },
+    {
         "name": "html-projects",
         "description": "HTML and CSS practice projects, 2024",
         "topics": [
@@ -233,6 +337,15 @@
             "frontend",
             "html",
             "web-development"
+        ]
+    },
+    {
+        "name": "html-test-app",
+        "description": "Scratch space for testing and experimenting with HTML",
+        "topics": [
+            "frontend",
+            "html",
+            "javascript"
         ]
     },
     {
@@ -364,6 +477,14 @@
             "machine-learning",
             "regression",
             "tensorflow"
+        ]
+    },
+    {
+        "name": "machine-learning-practice",
+        "description": "Coursework for Machine Learning Practices — IIT Madras, T1 2026",
+        "topics": [
+            "iit-madras",
+            "machine-learning"
         ]
     },
     {
@@ -506,6 +627,18 @@
         ]
     },
     {
+        "name": "mlp-project",
+        "description": "Comment category classification using text and numerical features — MLP Kaggle competition, IIT Madras",
+        "topics": [
+            "classification",
+            "iit-madras",
+            "kaggle",
+            "machine-learning",
+            "nlp",
+            "text-classification"
+        ]
+    },
+    {
         "name": "mosh-ultimate-dsa-java",
         "description": "Java data structures practice based on Mosh Hamedani’s Ultimate Data Structures & Algorithms course.",
         "topics": [
@@ -513,6 +646,16 @@
             "data-structures",
             "dsa",
             "java"
+        ]
+    },
+    {
+        "name": "p5js-learning",
+        "description": "Introduction to p5.js for the Mathematics and Programming Intersection workshop",
+        "topics": [
+            "creative-coding",
+            "javascript",
+            "mathematics",
+            "p5js"
         ]
     },
     {
@@ -616,6 +759,15 @@
         ]
     },
     {
+        "name": "py-revision",
+        "description": "Python revision and practice code",
+        "topics": [
+            "practice",
+            "python",
+            "revision"
+        ]
+    },
+    {
         "name": "python-oppe1-t3-2023",
         "description": "Preparation code and notes for Python OPPE 1 — IIT Madras, T3 2023",
         "topics": [
@@ -663,6 +815,17 @@
             "iit-madras",
             "programming",
             "python"
+        ]
+    },
+    {
+        "name": "quiz",
+        "description": "JavaScript quizzes and Q&A-style tutorials for learning through questions and detailed answers",
+        "topics": [
+            "javascript",
+            "learning",
+            "quiz",
+            "tutorials",
+            "web-development"
         ]
     },
     {
@@ -767,6 +930,17 @@
             "fetch-ai",
             "hackathon",
             "iit-madras"
+        ]
+    },
+    {
+        "name": "tds",
+        "description": "Tools in Data Science - Jan 2026",
+        "topics": [
+            "data-analysis",
+            "data-science",
+            "data-visualization",
+            "iit-madras",
+            "llm"
         ]
     },
     {

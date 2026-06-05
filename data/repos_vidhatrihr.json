@@ -20,6 +20,15 @@
         ]
     },
     {
+        "name": "deep-learning-and-genai",
+        "description": "Coursework for Deep Learning and Generative AI — IIT Madras, T1 2026",
+        "topics": [
+            "deep-learning",
+            "generative-ai",
+            "iit-madras"
+        ]
+    },
+    {
         "name": "flask-session-jwt-demo",
         "description": "Session and JWT authentication systems built from scratch using Flask & SQLite. Applied to a functional To-Do application to demonstrate secure route protection.",
         "topics": [
@@ -39,6 +48,17 @@
             "flask",
             "gutenberg",
             "web-development"
+        ]
+    },
+    {
+        "name": "html-games",
+        "description": "Simple browser-based games built with HTML, CSS, and JavaScript",
+        "topics": [
+            "css",
+            "frontend",
+            "game-development",
+            "html",
+            "javascript"
         ]
     },
     {
@@ -92,6 +112,14 @@
         ]
     },
     {
+        "name": "machine-learning-practices",
+        "description": "Coursework for Machine Learning Practices — IIT Madras, T1 2026",
+        "topics": [
+            "iit-madras",
+            "machine-learning"
+        ]
+    },
+    {
         "name": "machine-learning-techniques",
         "description": "Coursework for Machine Learning Techniques (MLT) — IIT Madras",
         "topics": [
@@ -134,7 +162,7 @@
     },
     {
         "name": "mad2-project",
-        "description": "Full stack household services platform connecting professionals with customers. Built using Flask, Vue.js, REST APIs, and role-based JWT authentication.",
+        "description": "Household services platform connecting professionals with customers. Full stack application built using Flask, Vue.js, REST APIs, and role-based JWT authentication.",
         "topics": [
             "crud",
             "flask",
@@ -155,6 +183,28 @@
         ]
     },
     {
+        "name": "mlp-project",
+        "description": "Comment category classification using text and numerical features — MLP Kaggle competition, IIT Madras",
+        "topics": [
+            "classification",
+            "iit-madras",
+            "kaggle",
+            "machine-learning",
+            "nlp",
+            "text-classification"
+        ]
+    },
+    {
+        "name": "p5-js-intro",
+        "description": "Introduction to p5.js for the Mathematics and Programming Intersection workshop",
+        "topics": [
+            "creative-coding",
+            "javascript",
+            "mathematics",
+            "p5js"
+        ]
+    },
+    {
         "name": "pdsa-coursework",
         "description": "Coursework for Programming, Data Structures and Algorithms using Python (PDSA) — IIT Madras, T2 2024",
         "topics": [
@@ -162,6 +212,18 @@
             "iit-madras",
             "pdsa",
             "python"
+        ]
+    },
+    {
+        "name": "personal-expense-tracker",
+        "description": "A full-stack expense tracking application where users can set a monthly budget, log expenses, and view a spending summary.",
+        "topics": [
+            "expense-tracker",
+            "flask",
+            "frontend",
+            "sqlite",
+            "vue",
+            "web-development"
         ]
     },
     {
@@ -193,11 +255,56 @@
         ]
     },
     {
+        "name": "simple-blog-app",
+        "description": "A full-stack blogging application where users can write, read, like, and comment on blogs.",
+        "topics": [
+            "blog",
+            "flask",
+            "frontend",
+            "sqlite",
+            "vue",
+            "web-development"
+        ]
+    },
+    {
         "name": "vidhatrihr",
         "description": "GitHub profile repository",
         "topics": [
             "profile",
             "readme"
+        ]
+    },
+    {
+        "name": "vue-revision",
+        "description": "Vue Js Revision",
+        "topics": [
+            "frontend",
+            "javascript",
+            "revision",
+            "vue",
+            "web-development"
+        ]
+    },
+    {
+        "name": "workshop-day2-portfolio",
+        "description": "Git workshop day 2 portfolio website, IITM",
+        "topics": [
+            "git",
+            "github",
+            "iit-madras",
+            "portfolio",
+            "workshop"
+        ]
+    },
+    {
+        "name": "workshop-day2-template-project",
+        "description": "Git workshop day 2 template project, IITM",
+        "topics": [
+            "git",
+            "github",
+            "iit-madras",
+            "template",
+            "workshop"
         ]
     }
 ]
