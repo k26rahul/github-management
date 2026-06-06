@@ -864,6 +864,11 @@
         ]
     },
     {
+        "name": "resume",
+        "description": "A local, self-hosted resume generation pipeline. Edit JSON data, preview in a browser, generate a pixel-perfect PDF.",
+        "topics": []
+    },
+    {
         "name": "rythmfit-hack-o-pitch-2.0",
         "description": "AI dance and fitness trainer prototype — Hack-O-Pitch 2.0, IIT Madras, 2023",
         "topics": [
